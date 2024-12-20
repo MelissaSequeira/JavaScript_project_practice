@@ -1,0 +1,26 @@
+*{
+    background-color: rgb(130, 186, 153);
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+input{
+    height: 50px;
+    width: 285px;
+    background-color: antiquewhite;
+    font-size: larger;
+    text-align: right;
+}
+div{
+    width: 300px;
+}
+button{
+    height:70px;
+    width: 70px;
+    background-color: rgb(193, 139, 139);
+    font-size: larger;
+}
